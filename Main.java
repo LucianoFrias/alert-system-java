@@ -9,7 +9,7 @@ public class Main {
 
         Topic horror = new Topic("Horror", "The Nun is bad!");
 
-        Topic action2 = new Topic("Action", "god");
+        Topic action2 = new Topic("Action", "The new Matrix movie is good.");
 
 
         User user1 = new User("Luciano");
